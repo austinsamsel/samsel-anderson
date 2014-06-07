@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Quirky fresh funny musical theater
+tagline: 
 ---
 {% include JB/setup %}
 
