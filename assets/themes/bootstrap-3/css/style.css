@@ -15,13 +15,11 @@
 
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
-  color: #f22430;
+  color: #333;
 }
 #footer {
   background-color: #fdcd60;
 }
-
-
 
 /* posts index */
 .post > h3.title {
@@ -77,3 +75,58 @@ h1, h2, h3, h4 {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+
+/* austin */
+.bg-img {
+    background-attachment: fixed, fixed;
+    background-clip: border-box, border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.85)), url("/assets/images/samsel-anderson03.jpg");
+    background-origin: padding-box, padding-box;
+    background-position: 0 0%, center 50px;
+    background-repeat: repeat, no-repeat;
+    background-size: cover;
+}
+
+#wrap{
+  min-height: 1% !important;
+  height:auto !important;
+  padding: 0 !important;
+}
+
+
+.jumbotron{
+  background:none;
+}
+
+.col-xs-12 img{
+  float: left;
+  padding:0 20px 30px 0;
+  max-width: 100%;
+  height:auto;
+}
+
+.navbar{
+  position: fixed !important;
+  width: 100%;
+  z-index: 999;
+}
+
+.page-header {
+    margin: 100px 0 20px;
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+  .jumbotron h1, .jumbotron .h1 {
+    font-size: 49px !important;
+  }
+}
+
+a:active {
+    outline: 0 !important;
+}
+a:focus{
+  outline: 0 !important;
+}

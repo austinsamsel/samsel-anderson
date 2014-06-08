@@ -1,0 +1,27 @@
+   <!--  <div id="footer">
+     <div class="container">
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+        </p>
+      </div>
+    </div id="footer">-->
+    {% include JB/analytics %}
+    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/hisrc.js"></script>
+    <script>
+      $(document).ready(function(){
+        $(".hisrc img").hisrc();
+        $(".hisrc img+img").hisrc({
+          useTransparentGif: true,
+          speedTestUri: '50K.jpg'
+        });
+      })
+    </script>
+    <script>
+    //If you know you'll be using HiSRC on a page, you can improve performance by running the network test before the DOM is ready by calling:
+      $.hisrc.speedTest();
+    </script>

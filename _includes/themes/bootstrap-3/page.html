@@ -3,7 +3,13 @@
 </div>
 
 <div class="row">
-  <div class="col-xs-12">
-    {{ content }}
-  </div>
+  {% if page.header == "narrow" %}
+    <div class="col-xs-12 col-md-8">
+      {{ content }}
+    </div>
+  {% else %}
+    <div class="col-xs-12">
+      {{ content }}
+    </div>
+  {% endif %}
 </div>

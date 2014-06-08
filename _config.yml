@@ -16,10 +16,10 @@ baseurl: /jekyll-strap
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Samsel / Anderson
-tagline: "Quirky fresh funny musical theater"
+title: Samsel / Anderson
+email: samselanderson@gmail.com
 description: "Quirky fresh funny musical theater"
-author: Austin Samsel
+tagline: "Quirky fresh funny musical theater"
   # name: "Elyssa Samsel
   # email: samselanderson@gmail.com
   # github: austinsamsel

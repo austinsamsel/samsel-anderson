@@ -1,0 +1,15 @@
+/*@media (min-width: @screen-md-min) { 
+.navbar-default {
+background-image: 
+    linear-gradient(
+        rgba(255, 255, 255, 0.0), 
+        rgba(255, 255, 255, 0.0)
+      ) !important;
+  background-color: rgba(248,248,248, 0.0) !important;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.0) inset, 0 1px 5px rgba(0, 0, 0, 0.0);
+  padding:1px 0 0 1px !important;
+}
+.navbar{
+  border:0px !important;
+}
+}*/
