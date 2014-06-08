@@ -5,11 +5,20 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Site settings
+url: "http://austinsamsel.github.io"
+baseurl: /samsel-anderson
+
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
 title : Samsel / Anderson
 tagline: "Quirky fresh funny musical theater"
+description: "Quirky fresh funny musical theater"
 author : 
   name : 
   email : samselanderson@gmail.com
@@ -106,7 +115,7 @@ JB :
     mixpanel :
         token : '_MIXPANEL_TOKEN_'
     piwik :
-        baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
+        # baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
         idsite : '1'                   # the id of the site on Piwik
 
   # Settings for sharing helper. 
@@ -128,7 +137,3 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
-
-# Build settings
-markdown: kramdown
-permalink: pretty
