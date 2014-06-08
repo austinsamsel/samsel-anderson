@@ -82,7 +82,7 @@ h1, h2, h3, h4 {
     background-attachment: fixed, fixed;
     background-clip: border-box, border-box;
     background-color: rgba(0, 0, 0, 0);
-    background-image: linear-gradient(rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.85)), url("/assets/images/samsel-anderson03.jpg");
+    background-image: linear-gradient(rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.85)), url("{{ site.baseurl }}/assets/images/samsel-anderson03.jpg");
     background-origin: padding-box, padding-box;
     background-position: 0 0%, center 50px;
     background-repeat: repeat, no-repeat;
