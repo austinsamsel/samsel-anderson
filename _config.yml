@@ -19,12 +19,12 @@ baseurl: /samsel-anderson
 title : Samsel / Anderson
 tagline: "Quirky fresh funny musical theater"
 description: "Quirky fresh funny musical theater"
-author : Austin Samsel
-  name : Elyssa Samsel
-  email : samselanderson@gmail.com
-  github : austinsamsel
-  twitter : username
-  feedburner : feedname
+author: Austin Samsel
+  # name: "Elyssa Samsel
+  # email: samselanderson@gmail.com
+  # github: austinsamsel
+  # twitter: username
+  # feedburner: feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
