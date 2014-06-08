@@ -6,7 +6,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: pretty
 
 # Site settings
