@@ -11,7 +11,7 @@ permalink: pretty
 
 # Site settings
 url: "http://austinsamsel.github.io"
-baseurl: /samsel-anderson
+# baseurl: /samsel-anderson
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
