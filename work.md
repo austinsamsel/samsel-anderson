@@ -14,10 +14,8 @@ header: narrow
 
 <iframe style="border: 0; width: 100%; height: 439px;" src="//bandcamp.com/EmbeddedPlayer/album=1928781433/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=none/transparent=true/" seamless><a href="//collincrowe.bandcamp.com/album/cymatix">Cymatix by Collin Crowe</a>Invisible words.</iframe> 
 
-<div class="clearfix visible-xs"></div>
 
 ***
-<div class="clearfix visible-xs"></div>
 
 ####"Bound by Love"
 <div class="youtube-pic">
@@ -26,13 +24,9 @@ header: narrow
 <a href="http://www.youtube.com/watch?v=HhS745RUmnk"><img src="http://img.youtube.com/vi/HhS745RUmnk/0.jpg"></a>
 </div>
 
-<div style="width:100%; height:10px;"></div>
 
-
-<div class="clearfix visible-xs"></div>
 ***
 
-<div class="clearfix visible-xs"></div>
 
 ####“The Most Beautiful Bottom”
 <div class="youtube-pic">
@@ -41,13 +35,9 @@ header: narrow
 <a href="http://www.youtube.com/watch?v=MGsUntliad4"><img src="http://img.youtube.com/vi/MGsUntliad4/0.jpg"></a>
 </div>
 
-<div style="width:100%; height:10px;"></div>
 
-
-<div class="clearfix visible-xs"></div>
 ***
 
-<div class="clearfix visible-xs"></div>
 
 ####“Under my Bed”
 <div class="youtube-pic">
@@ -56,13 +46,9 @@ header: narrow
 <a href="http://www.youtube.com/watch?v=Dx-MlgCMeJ0"><img src="http://img.youtube.com/vi/Dx-MlgCMeJ0/0.jpg"></a>
 </div>
 
-<div style="width:100%; height:10px;"></div>
 
-
-<div class="clearfix visible-xs"></div>
 ***
 
-<div class="clearfix visible-xs"></div>
 
 ####“Drag ‘em to Helga” 
 <div class="youtube-pic">
@@ -71,13 +57,9 @@ header: narrow
 <a href="http://www.youtube.com/watch?v=gsiPLRvbKGE"><img src="http://img.youtube.com/vi/gsiPLRvbKGE/0.jpg"></a>
 </div>
 
-<div style="width:100%; height:10px;"></div>
 
-
-<div class="clearfix visible-xs"></div>
 ***
 
-<div class="clearfix visible-xs"></div>
 
 ####NYTB "Star, Star / By the Five Dead Crows" from Camp Wish-No-More
 <div class="youtube-pic">
@@ -86,13 +68,9 @@ header: narrow
 <a href="http://www.youtube.com/watch?v=MvjXhoviW30"><img src="http://img.youtube.com/vi/MvjXhoviW30/0.jpg"></a>
 </div>
 
-<div style="width:100%; height:10px;"></div>
 
-
-<div class="clearfix visible-xs"></div>
 ***
 
-<div class="clearfix visible-xs"></div>
 
 ####NYTB Kate Anderson, David Christensen & Michael Shapiro - "If There's a World"
 <div class="youtube-pic">
@@ -102,13 +80,9 @@ header: narrow
 </div>
 
 
-<div style="width:100%; height:10px;"></div>
 
-
-<div class="clearfix visible-xs"></div>
 ***
 
-<div class="clearfix visible-xs"></div>
 
 ####NYTB Natalie Charle Ellis - "Do You Care?"
 <div class="youtube-pic">
@@ -117,13 +91,9 @@ header: narrow
 <a href="http://www.youtube.com/watch?v=778-u-eUTZw"><img src="http://img.youtube.com/vi/778-u-eUTZw/0.jpg"></a>
 </div>
 
-<div style="width:100%; height:10px;"></div>
 
-
-<div class="clearfix visible-xs"></div>
 ***
 
-<div class="clearfix visible-xs"></div>
 
 ####NYTB "Princess Just Like You"
 <div class="youtube-pic">
@@ -132,13 +102,9 @@ header: narrow
 <a href="http://www.youtube.com/watch?v=NuTPYrx6xOg"><img src="http://img.youtube.com/vi/NuTPYrx6xOg/0.jpg"></a>
 </div>
 
-<div style="width:100%; height:10px;"></div>
 
-
-<div class="clearfix visible-xs"></div>
 ***
 
-<div class="clearfix visible-xs"></div>
 
 ####NYTB Ben Crawford - "The Most Beautiful Bottom"
 <div class="youtube-pic">
@@ -146,7 +112,5 @@ header: narrow
 </div>
 <a href="http://www.youtube.com/watch?v=aqrpTleWbzw"><img src="http://img.youtube.com/vi/aqrpTleWbzw/0.jpg"></a>
 </div>
-
-<div style="width:100%; height:10px;"></div>
 
 ***
