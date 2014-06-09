@@ -2,8 +2,8 @@
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
 
-# exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-# highlighter: pygments
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+highlighter: pygments
 
 # Build settings
 markdown: redcarpet
