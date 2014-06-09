@@ -1,0 +1,71 @@
+<style>
+.bg-img {
+    background-attachment: fixed, fixed;
+    background-clip: border-box, border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.85)), url("{{ site.baseurl }}/assets/images/samsel-anderson03.jpg");
+    background-origin: padding-box, padding-box;
+    background-position: 0 0%, center 50px;
+    background-repeat: repeat, no-repeat;
+    background-size: cover;
+}
+
+/* youtube play button */
+
+.youtube-pic{
+  z-index:1;
+  position: relative;
+  width:100%;
+  max-width:600px;
+  height: 30em;
+  overflow: hidden;
+  padding-bottom:-10px;
+}
+
+.youtube-pic img{
+  width:100%;
+  height:auto;
+  position: absolute;
+  top:0px;
+  bottom:-10px;
+  padding:0 !important;
+  opacity: 0.3;
+   filter: alpha(opacity=30);       /* IE8 and lower */
+   zoom: 1;
+   -webkit-transition: all .5s linear;
+      -moz-transition: all .5s linear;
+       -ms-transition: all .5s linear;
+        -o-transition: all .5s linear;
+           transition: all .5s linear;
+}
+.youtube-pic:hover img{
+  opacity: 0.7;
+   filter: alpha(opacity=70);       /* IE8 and lower */
+   zoom: 1;
+   transform:scale(1.02);
+    -ms-transform:scale(1.02); /* IE 9 */
+    -moz-transform:scale(1.02); /* Firefox */
+    -webkit-transform:scale(1.02); /* Safari and Chrome */
+    -o-transform:scale(1.02); /* Opera */
+}
+
+.youtube-pic:hover > .play-button {
+   background-image: url("{{ site.baseurl }}/assets/images/youtube-play-red.svg");
+   cursor:pointer;
+}
+
+.play-button{
+  z-index: 999;
+  position: relative;
+  background-image: url("{{ site.baseurl }}/assets/images/youtube-play.svg");
+  background-repeat:no-repeat;
+  background-position: center center;
+  opacity: 0.9;
+   filter: alpha(opacity=90);       /* IE8 and lower */
+   zoom: 1;
+   width:100px;
+   height:100px;
+   padding: 38% 0;
+   margin: auto;
+}
+</style>

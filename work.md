@@ -4,58 +4,149 @@ title: "Work"
 description: ""
 group: navigation
 weight: 6
+header: narrow
 ---
 {% include JB/setup %}
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="//bandcamp.com/EmbeddedPlayer/album=1928781433/size=small/bgcol=ffffff/linkcol=63b2cc/artwork=none/transparent=true/" seamless><a href="//collincrowe.bandcamp.com/album/cymatix">Cymatix by Collin Crowe</a>Invisible words.</iframe> 
+<iframe style="border: 0; width: 100%; height: 42px;" src="//bandcamp.com/EmbeddedPlayer/album=1928781433/size=small/bgcol=ffffff/linkcol=63b2cc/artwork=none/transparent=true/" seamless><a href="//collincrowe.bandcamp.com/album/cymatix">Cymatix by Collin Crowe</a>Invisible words.</iframe>
 
 ***
 
 <iframe style="border: 0; width: 100%; height: 439px;" src="//bandcamp.com/EmbeddedPlayer/album=1928781433/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=none/transparent=true/" seamless><a href="//collincrowe.bandcamp.com/album/cymatix">Cymatix by Collin Crowe</a>Invisible words.</iframe> 
 
+<div class="clearfix visible-xs"></div>
+
 ***
+<div class="clearfix visible-xs"></div>
 
 ####"Bound by Love"
-<iframe width="730" height="411" src="//www.youtube.com/embed/HhS745RUmnk?rel=0" frameborder="0" allowfullscreen>Invisible words.</iframe> 
+<div class="youtube-pic">
+<div class="play-button">
+</div>
+<a href="http://www.youtube.com/watch?v=HhS745RUmnk"><img src="http://img.youtube.com/vi/HhS745RUmnk/0.jpg"></a>
+</div>
 
+<div style="width:100%; height:10px;"></div>
+
+
+<div class="clearfix visible-xs"></div>
 ***
+
+<div class="clearfix visible-xs"></div>
 
 ####“The Most Beautiful Bottom”
-<iframe width="730" height="411" src="//www.youtube.com/embed/MGsUntliad4?rel=0" frameborder="0" allowfullscreen>Invisible words.</iframe> 
+<div class="youtube-pic">
+<div class="play-button">
+</div>
+<a href="http://www.youtube.com/watch?v=MGsUntliad4"><img src="http://img.youtube.com/vi/MGsUntliad4/0.jpg"></a>
+</div>
 
+<div style="width:100%; height:10px;"></div>
+
+
+<div class="clearfix visible-xs"></div>
 ***
+
+<div class="clearfix visible-xs"></div>
 
 ####“Under my Bed”
-<iframe width="730" height="411" src="//www.youtube.com/embed/Dx-MlgCMeJ0?rel=0" frameborder="0" allowfullscreen>Invisible words.</iframe> 
+<div class="youtube-pic">
+<div class="play-button">
+</div>
+<a href="http://www.youtube.com/watch?v=Dx-MlgCMeJ0"><img src="http://img.youtube.com/vi/Dx-MlgCMeJ0/0.jpg"></a>
+</div>
 
+<div style="width:100%; height:10px;"></div>
+
+
+<div class="clearfix visible-xs"></div>
 ***
+
+<div class="clearfix visible-xs"></div>
 
 ####“Drag ‘em to Helga” 
-<iframe width="730" height="411" src="//www.youtube.com/embed/gsiPLRvbKGE?rel=0" frameborder="0" allowfullscreen>Invisible words.</iframe> 
+<div class="youtube-pic">
+<div class="play-button">
+</div>
+<a href="http://www.youtube.com/watch?v=gsiPLRvbKGE"><img src="http://img.youtube.com/vi/gsiPLRvbKGE/0.jpg"></a>
+</div>
 
+<div style="width:100%; height:10px;"></div>
+
+
+<div class="clearfix visible-xs"></div>
 ***
+
+<div class="clearfix visible-xs"></div>
 
 ####NYTB "Star, Star / By the Five Dead Crows" from Camp Wish-No-More
-<iframe width="730" height="411" src="//www.youtube.com/embed/MvjXhoviW30?rel=0" frameborder="0" allowfullscreen>Invisible words.</iframe> 
+<div class="youtube-pic">
+<div class="play-button">
+</div>
+<a href="http://www.youtube.com/watch?v=MvjXhoviW30"><img src="http://img.youtube.com/vi/MvjXhoviW30/0.jpg"></a>
+</div>
 
+<div style="width:100%; height:10px;"></div>
+
+
+<div class="clearfix visible-xs"></div>
 ***
+
+<div class="clearfix visible-xs"></div>
 
 ####NYTB Kate Anderson, David Christensen & Michael Shapiro - "If There's a World"
-<iframe width="730" height="411" src="//www.youtube.com/embed/T9sC6FoQO2c?rel=0" frameborder="0" allowfullscreen>Invisible words.</iframe> 
+<div class="youtube-pic">
+<div class="play-button">
+</div>
+<a href="http://www.youtube.com/watch?v=T9sC6FoQO2c"><img src="http://img.youtube.com/vi/T9sC6FoQO2c/0.jpg"></a>
+</div>
 
+
+<div style="width:100%; height:10px;"></div>
+
+
+<div class="clearfix visible-xs"></div>
 ***
+
+<div class="clearfix visible-xs"></div>
 
 ####NYTB Natalie Charle Ellis - "Do You Care?"
-<iframe width="730" height="411" src="//www.youtube.com/embed/778-u-eUTZw?rel=0" frameborder="0" allowfullscreen>Invisible words.</iframe> 
+<div class="youtube-pic">
+<div class="play-button">
+</div>
+<a href="http://www.youtube.com/watch?v=778-u-eUTZw"><img src="http://img.youtube.com/vi/778-u-eUTZw/0.jpg"></a>
+</div>
 
+<div style="width:100%; height:10px;"></div>
+
+
+<div class="clearfix visible-xs"></div>
 ***
+
+<div class="clearfix visible-xs"></div>
 
 ####NYTB "Princess Just Like You"
-<iframe width="730" height="411" src="//www.youtube.com/embed/NuTPYrx6xOg?rel=0" frameborder="0" allowfullscreen>Invisible words.</iframe> 
+<div class="youtube-pic">
+<div class="play-button">
+</div>
+<a href="http://www.youtube.com/watch?v=NuTPYrx6xOg"><img src="http://img.youtube.com/vi/NuTPYrx6xOg/0.jpg"></a>
+</div>
 
+<div style="width:100%; height:10px;"></div>
+
+
+<div class="clearfix visible-xs"></div>
 ***
 
+<div class="clearfix visible-xs"></div>
+
 ####NYTB Ben Crawford - "The Most Beautiful Bottom"
-<iframe width="560" height="315" src="//www.youtube.com/embed/aqrpTleWbzw" frameborder="0" allowfullscreen>Invisible words.</iframe>
+<div class="youtube-pic">
+<div class="play-button">
+</div>
+<a href="http://www.youtube.com/watch?v=aqrpTleWbzw"><img src="http://img.youtube.com/vi/aqrpTleWbzw/0.jpg"></a>
+</div>
+
+<div style="width:100%; height:10px;"></div>
 
 ***
