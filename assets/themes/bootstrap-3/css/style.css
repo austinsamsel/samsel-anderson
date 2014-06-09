@@ -120,7 +120,7 @@ a:active {
 a:focus{
   outline: 0 !important;
 }
-a:link{
+a:link a:visited{
   color:#d59600 !important;
 }
 a:hover{
