@@ -4,6 +4,7 @@ title: "About"
 description: ""
 group: navigation
 weight: 1
+header: narrow
 ---
 {% include JB/setup %}
 

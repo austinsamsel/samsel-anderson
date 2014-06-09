@@ -16,6 +16,10 @@
   float: right; }*/
 
 /* Jekyll Bootstrap Colors */
+
+@import url(//fonts.googleapis.com/css?family=Oswald:300);
+@import url(//fonts.googleapis.com/css?family=Bitter);
+
 h1, h2, h3, h4 {
   color: #333;
 }
@@ -110,16 +114,102 @@ h1, h2, h3, h4 {
     margin: 100px 0 20px;
 }
 
-/* Medium devices (desktops, 992px and up) */
-@media (min-width: 992px) { 
-  .jumbotron h1, .jumbotron .h1 {
-    font-size: 49px !important;
-  }
-}
-
 a:active {
     outline: 0 !important;
 }
 a:focus{
   outline: 0 !important;
 }
+a:link{
+  color:#d59600 !important;
+}
+a:hover{
+  color:#FFB504 !important;
+  text-decoration: none !important;
+}
+.navbar-brand {
+    color: #000000 !important;
+    font-family: "Bitter";
+    font-size: 21px;
+    text-transform: uppercase;
+  }
+.navbar-default .navbar-nav > li > a {
+    color: #777777;
+    font-size:16px !important;
+    font-family: "Oswald";
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+}
+.navbar-nav > li > a {
+    padding-bottom: 14px;
+    padding-top: 16px;
+}
+.hello h1 {
+    color: #FFB504;
+    font-family: 'oswald';
+    font-size:38px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top:35%;
+}
+.lighter{
+  color:#e2c379;
+}
+.us h2 {
+    color: #FFFFFF;
+    font-family: 'oswald';
+    font-weight:300 !important;
+    font-size:20px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+   .us h2 {
+    font-size: 24px !important;
+}
+.hello h1 {
+    font-size: 42px !important;
+  }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+  .us h2 {
+    font-size: 35px !important;
+}
+.hello h1 {
+    font-size: 58px !important;
+  }
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px;) {  .us h2 {
+    font-size: 35px !important;
+}
+.hello h1 {
+    font-size: 58px !important;
+  }}
+
+
+  h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    color: inherit;
+    font-family: "Oswald", "Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+}
+h1 {
+  color:#FFB504;
+}
+body{
+  font-family: "Karla";
+  line-height:1.5em;
+  font-size:18px;
+}
+p {margin-bottom:1.1em;}
+
+.form-control {
+    font-size: 18px;
+  }
