@@ -141,8 +141,8 @@ a:hover{
     text-transform: uppercase;
 }
 .navbar-nav > li > a {
-    padding-bottom: 14px;
-    padding-top: 16px;
+    padding-bottom: 15px;
+    padding-top: 15px;
 }
 .hello h1 {
     color: #FFB504;
