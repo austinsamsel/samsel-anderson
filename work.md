@@ -8,11 +8,11 @@ header: narrow
 ---
 {% include JB/setup %}
 
-<iframe style="border: 0; width: 100%; max-width:620px; height: 42px;" src="//bandcamp.com/EmbeddedPlayer/album=1928781433/size=small/bgcol=ffffff/linkcol=63b2cc/artwork=none/transparent=true/" seamless><a href="//collincrowe.bandcamp.com/album/cymatix">Cymatix by Collin Crowe</a>Invisible words.</iframe>
+<iframe style="border: 0; width: 100%; max-width:620px; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=38587190/size=large/bgcol=ffffff/linkcol=e99708/artwork=none/transparent=true/" seamless><a href="http://samselanderson.bandcamp.com/album/childrens-theater">Children&#39;s Theater by Samsel/Anderson</a></iframe>
 
 ***
 
-<iframe style="border: 0; width: 100%; max-width:620px; height: 439px;" src="//bandcamp.com/EmbeddedPlayer/album=1928781433/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=none/transparent=true/" seamless><a href="//collincrowe.bandcamp.com/album/cymatix">Cymatix by Collin Crowe</a>Invisible words.</iframe> 
+<iframe style="border: 0; width: 100%; max-width:620px; height: 406px;" src="//bandcamp.com/EmbeddedPlayer/album=1768887556/size=large/bgcol=ffffff/linkcol=e99708/artwork=none/transparent=true/" seamless><a href="http://samselanderson.bandcamp.com/album/original-musical-theater">Original Musical Theater by Samsel/Anderson</a></iframe>
 
 ***
 
