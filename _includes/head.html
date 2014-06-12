@@ -19,6 +19,21 @@
     <!-- Custom styles -->
     <link href="{{ site.baseurl }}/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'Karla:400,400italic,700,700italic:latin','Oswald:400:latin','Bitter::latin' ] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })(); 
+    </script>
+
     {% if page.header == "home" %}
     <link href="{{ site.baseurl }}/assets/themes/bootstrap-3/css/style-home.css?body=1" rel="stylesheet" type="text/css" media="all">
     {% else %}
