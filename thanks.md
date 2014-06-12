@@ -8,6 +8,4 @@ published: true
 
 {% include JB/setup %}
 
-###Thank you!
-
 We will get back to you soon.

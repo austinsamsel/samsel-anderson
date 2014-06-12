@@ -12,21 +12,40 @@ header: narrow
 
 <hr>
 
-<form role="form" action="//getsimpleform.com/messages?form_api_token=845e54a0506a5caf9fb66a5b0eb00647" method="post">
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='//austinsamsel.github.io/samsel-anderson/thanks' />
-
-  <div class="form-group">
+<form action="//forms.brace.io/austinsamsel@gmail.com" class="my-form" method="POST">
+    <div class="form-group">
     <label for="exampleInputName1">Your Name</label>
-    <input type="text" name="name " class="form-control" id="exampleInputName1" placeholder="Enter name">
-  </div>
-  <div class="form-group">
+    <input type="text" class="name form-control" id="exampleInputName1" name="name" placeholder="Enter name" required>
+    </div>
+    <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>
-    <input type="email" name="email " class="form-control" id="exampleInputEmail1" placeholder="Enter email">
-  </div>
-  <div class="form-group">
+    <input type="email" name="_replyto" class="email form-control" id="exampleInputEmail1" placeholder="Enter email" required>
+    </div>
+    <div class="form-group">
     <label for="exampleInputText1">Message</label>
-    <textarea name="message " class="form-control" rows="3"></textarea>
-  </div>
-  <button type="submit" class="btn btn-default">Submit</button>
+    <textarea type="text" name="message" class="message form-control" rows="3" required></textarea>
+    </div>
+    <input type="hidden" name="_next" value="https://austinsamsel.github.io/samsel-anderson/thanks/" />
+    <button type="submit" class="btn btn-default" value="Send">Send</button>
 </form>
+
+<script>
+$(".my-form").validate({
+    rules: {
+      name: {
+        required: true,
+        minlength: 2
+      },
+      email: {
+        required: true,
+        email: true
+      },
+      message: {
+        required: true,
+        minlength: 5
+    }
+  },
+  errorPlacement: function(error, element) {
+  }
+});
+</script>
