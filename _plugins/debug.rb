@@ -1,3 +1,7 @@
+require 'webrick'
+include WEBrick
+WEBrick::HTTPUtils::DefaultMimeTypes.store 'svg', 'image/svg+xml'
+
 # A simple way to inspect liquid template variables.
 # Usage:
 #  Can be used anywhere liquid syntax is parsed (templates, includes, posts/pages)
