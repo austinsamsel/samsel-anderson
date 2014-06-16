@@ -66,11 +66,12 @@
 .youtube-pic:hover > .play-button {
    background-image: url("{{ site.baseurl }}/assets/images/youtube-play-red.png");
    cursor:pointer;
+   pointer-events:none;
 }
 
 .play-button{
   z-index: 999;
-  pointer-events:none;
+ /* pointer-events:none; */
   position: relative;
   background-image: url("{{ site.baseurl }}/assets/images/youtube-play.png");
   background-repeat:no-repeat;
