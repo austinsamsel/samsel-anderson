@@ -16,7 +16,7 @@ header: narrow
 
 ***
 
-####"Bound by Love"
+####"Bound by Love" [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
 </div>
@@ -25,7 +25,7 @@ header: narrow
 
 ***
 
-####“The Most Beautiful Bottom”
+####“The Most Beautiful Bottom” [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
 </div>
@@ -34,7 +34,7 @@ header: narrow
 
 ***
 
-####“Under my Bed”
+####“Under my Bed” [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
 </div>
@@ -43,7 +43,7 @@ header: narrow
 
 ***
 
-####“Drag ‘em to Helga” 
+####“Drag ‘em to Helga” [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
 </div>
@@ -52,7 +52,7 @@ header: narrow
 
 ***
 
-####NYTB "Star, Star / By the Five Dead Crows" from Camp Wish-No-More
+####NYTB "Star, Star / By the Five Dead Crows" from Camp Wish-No-More [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
 </div>
@@ -61,7 +61,7 @@ header: narrow
 
 ***
 
-####NYTB Kate Anderson, David Christensen & Michael Shapiro - "If There's a World"
+####NYTB Kate Anderson, David Christensen & Michael Shapiro - "If There's a World" [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
 </div>
@@ -70,7 +70,7 @@ header: narrow
 
 ***
 
-####NYTB Natalie Charle Ellis - "Do You Care?"
+####NYTB Natalie Charle Ellis - "Do You Care?" [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
 </div>
@@ -79,7 +79,7 @@ header: narrow
 
 ***
 
-####NYTB "Princess Just Like You"
+####NYTB "Princess Just Like You" [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
 </div>
@@ -88,7 +88,7 @@ header: narrow
 
 ***
 
-####NYTB Ben Crawford - "The Most Beautiful Bottom"
+####NYTB Ben Crawford - "The Most Beautiful Bottom" [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
 </div>

@@ -30,3 +30,5 @@ In the spring of 2012, Kate and Elyssa were asked to participate in "4@15," a fe
 Elyssa is also the co-author (with Jade Bartlett) of a new musical based on a short story by Edgar Allan Poe entitled [Ligeia](http://ligeiathemusical.com).
 
 More info and music at [www.elyssasamsel.com](http://www.elyssasamsel.com)
+
+***
