@@ -25,6 +25,11 @@ header: narrow
 
 ***
 
+<div class="youtube" id="HhS745RUmnk" style="width: 320px; height: 180px;"></div>
+
+
+***
+
 ####“The Most Beautiful Bottom” [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
@@ -96,3 +101,5 @@ header: narrow
 </div>
 
 ***
+
+<script src="https://labnol.googlecode.com/files/youtube.js"></script>
