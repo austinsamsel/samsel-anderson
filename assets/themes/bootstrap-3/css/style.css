@@ -163,6 +163,14 @@ a:hover{
     text-transform: uppercase;
 }
 
+.youtube {
+  width:360px;
+  height:202px;
+}
+.play{
+  z-index:9999 !important;
+}
+
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
    .us h2 {
@@ -211,3 +219,4 @@ p {margin-bottom:1.1em;}
 .form-control {
     font-size: 18px;
   }
+
