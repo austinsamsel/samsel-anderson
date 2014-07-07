@@ -138,18 +138,20 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
   
   prose:
-  rooturl: '/'
+  rooturl: 'http://samselanderson.com/'
   siteurl: 'http://samselanderson.com/'
   relativeLinks: 'http://samselanderson.com/'
   media: 'assets/images/'
   ignore: 
     - _config.yml
+    - /_includes/JB
+    - /_includes/themes
     - /_layouts
     - /_includes
     - /_drafts
     - /_plugins
     - /_posts
-    - /assets
+    - /assets/themes
     - .gitignore
     - 404.html
     - archive.html
