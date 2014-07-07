@@ -35,7 +35,7 @@ More info and music at [www.elyssasamsel.com](http://www.elyssasamsel.com)
 
 ***
 
-![Samsel/Anderson](//10371438_10102262847437400_6290748870146169972_n.jpg)
+![](//10371438_10102262847437400_6290748870146169972_n.jpg)
 
 ***
 
@@ -48,7 +48,3 @@ More info and music at [www.elyssasamsel.com](http://www.elyssasamsel.com)
 ***
 
 ![](//IMG_6695.JPG)
-
-***
-
-![](//samselanderson.png)
