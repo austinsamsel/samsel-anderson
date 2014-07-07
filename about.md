@@ -1,23 +1,25 @@
 ---
 layout: page
-title: "About"
+title: About
 description: ""
 group: navigation
 weight: 1
+published: true
 ---
+
 {% include JB/setup %}
 
 ##Kate Anderson
 
 ![Kate Anderson]({{ site.baseurl }}/assets/images/kate-anderson.jpg)
 
-**Kate Anderson's** love of theatre began early. By first grade, Kate was writing and performing her own plays with fellow classmates. Kate is now a performer, lyricist, and librettist surviving in New York City.
+**Kate Anderson's** love of theatre began early. By first grade, Kate was writing and performing her own plays with her peers- not much has changed. Kate is now a performer, lyricist, and librettist surviving in New York City.
 
-In 2005, Kate was accepted into Gettysburg College and awarded the Parker B. Wagnild scholarship to pursue music at the Sunderman Conservatory during her tenure. Kate also participated in the Gettysburg College Choir, Camerata, and a student-led a cappella group called "The Four Scores." It was in this group that Kate's love of lyric writing became especially apparent. Kate composed many parodies for the group, incorporating her creative writing skills with her love of music. In 2009, Kate graduated with a BA in Music, and a minor in Creative Writing.
+In 2005, Kate was accepted into Gettysburg College and awarded the Parker B. Wagnild scholarship to pursue music at the Sunderman Conservatory. In 2009, Kate graduated cum laude with a BA in Music, and a minor in Creative Writing.
 
-After moving to New York, Kate began working at The Public Theatre. In fall of 2010, Kate was accepted into the BMI Lehman Engel Musical Theatre Workshop. Kate was paired with Elyssa Samsel for her very first assignment and the two have been writing partners ever since. They are currently working on several projects, including an adaptation of a well-known children's novel, which earned them a spot in the Advanced Workshop at the end of their second year in BMI.
+In fall of 2010, Kate was accepted into the BMI Lehman Engel Musical Theatre Workshop. Kate was paired with Elyssa Samsel for her very first assignment and the two have been writing partners ever since. They are both members of the BMI Advanced Workshop. Kate is also a member of the BMI Librettist Workshop and currently studies improv and sketch comedy at the Upright Citizen's Brigade.
 
-In the spring of 2012, Kate and Elyssa were asked to participate in "4@15," a festival of original 15 minute musicals for the UC Irvine Satellite Program, run by Director Brian Blythe. Their contribution, "Camp Wish-No-More," about a rehab camp for girls who think they are Princesses and other Fairy Tale characters, was praised as a success. It is now being developed into a full length musical. In October of 2012, songs from "Camp Wish-No-More" were featured in a New York Theatre Barn "D-Lounge" Series at the Daryl Roth Theatre in Union Square.
+Kate and Elyssa's work has been featured in the New York Theater Barn's D-Lounge Series, The Platform: London, as well as "4@15" with NYU Steinhardt and UC Irvine. They have penned three short musical comedies, "Camp Wish-No-More", "Llamaze 101", and "My Little Brony". "Camp Wish-No-More", an original musical about a camp for delusional girls who believe they are Disney Princesses, was developed into a full length 90 minute musical, and presented as a staged reading with NYU Steinhardt in the fall of 2013. Kate and Elyssa contributed "Kittens First Full Moon" based on the book by Kevin Henkes to Theatreworks USA's "Fly Guy and other stories" which will tour the US this fall. Kate and Elyssa are currently working on some exciting new projects including two adaptations and an original work. 
 
 ***
 
