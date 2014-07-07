@@ -1,11 +1,13 @@
 ---
 layout: page
-title: "Our Work"
+title: Our Work
 description: ""
 group: navigation
 weight: 3
 header: narrow
+published: true
 ---
+
 {% include JB/setup %}
 
 <iframe style="border: 0; width: 100%; max-width:620px; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=38587190/size=large/bgcol=ffffff/linkcol=e99708/artwork=none/transparent=true/" seamless><a href="http://samselanderson.bandcamp.com/album/childrens-theater">Children&#39;s Theater by Samsel/Anderson</a></iframe>
@@ -13,6 +15,33 @@ header: narrow
 ***
 
 <iframe style="border: 0; width: 100%; max-width:620px; height: 406px;" src="//bandcamp.com/EmbeddedPlayer/album=1768887556/size=large/bgcol=ffffff/linkcol=e99708/artwork=none/transparent=true/" seamless><a href="http://samselanderson.bandcamp.com/album/original-musical-theater">Original Musical Theater by Samsel/Anderson</a></iframe>
+
+***
+
+####"Llamaze 101" [Youtube]
+<div class="youtube-pic">
+<div class="play-button">
+</div>
+<a href="http://www.youtube.com/watch?v=n9YaX_YgRkA"><img src="http://img.youtube.com/vi/n9YaX_YgRkA/0.jpg"></a>
+</div>
+
+***
+
+####"When You're a Brony" [Youtube]
+<div class="youtube-pic">
+<div class="play-button">
+</div>
+<a href="http://www.youtube.com/watch?v=KrI5GgpvAto"><img src="http://img.youtube.com/vi/KrI5GgpvAto/0.jpg"></a>
+</div>
+
+***
+
+####"My Little Brony part II" [Youtube]
+<div class="youtube-pic">
+<div class="play-button">
+</div>
+<a href="http://www.youtube.com/watch?v=6fzXmlo1w2Y"><img src="http://img.youtube.com/vi/6fzXmlo1w2Y/0.jpg"></a>
+</div>
 
 ***
 
