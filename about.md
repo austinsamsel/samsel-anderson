@@ -11,7 +11,7 @@ published: true
 
 ##Kate Anderson
 
-![Kate Anderson]({{ site.baseurl }}/assets/images/kate-anderson.jpg)
+![Kate Anderson](//10256208_835371681484_4004475766958685924_n.jpg)
 
 **Kate Anderson's** love of theatre began early. By first grade, Kate was writing and performing her own plays with her peers- not much has changed. Kate is now a performer, lyricist, and librettist surviving in New York City.
 
@@ -25,7 +25,7 @@ Kate and Elyssa's work has been featured in the New York Theater Barn's D-Lounge
 
 ##Elyssa Samsel
 
-![Elyssa Samsel]({{ site.baseurl }}/assets/images/elyssa-samsel.jpg)
+![Elyssa Samsel](//10155614_10152416232558466_3411289587620362141_n.jpg)
 
 **Elyssa Samsel** was born in New York City. She began her classical training on the violin and piano at the age of six. Now she resides in New York City as an actress, singer, violinist, pianist, and composer for Musical Theatre. Currently a composer in the BMI Lehman Engel Advanced Musical Theatre Workshop, Elyssa is working on projects inside and outside of the workshop with fellow member, Kate Anderson. The two of them are currently writing an original Musical Comedy called Camp Wish-No-More, which takes place at a rehabilitation camp for delusional girls who believe themselves to be Disney Princesses or bizarre characters from Fairy Tales. Camp Wish-No-More was recently produced by New York Theatre Barn as part of their monthly series at the D-Lounge in Union Square. Camp Wish-No-More had its first debut as part of the 4@15 UC-Irvine Satellite Program, directed by Brian Blythe.
 
@@ -34,3 +34,21 @@ Elyssa is also the co-author (with Jade Bartlett) of a new musical based on a sh
 More info and music at [www.elyssasamsel.com](http://www.elyssasamsel.com)
 
 ***
+
+![Samsel/Anderson](//10371438_10102262847437400_6290748870146169972_n.jpg)
+
+***
+
+![](//10373758_10102262847567140_7886118329504360344_n.jpg)
+
+***
+
+![](//10402901_10102262847641990_8234190907720185898_n.jpg)
+
+***
+
+![](//IMG_6695.JPG)
+
+***
+
+![](//samselanderson.png)
