@@ -141,7 +141,7 @@ JB :
   rooturl: '/'
   siteurl: 'http://samselanderson.com/'
   relativeLinks: 'http://samselanderson.com/'
-  media: 'media'
+  media: 'images'
   ignore:
     - _config.yml
     - /_layouts
