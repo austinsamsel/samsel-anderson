@@ -142,7 +142,8 @@ JB :
   siteurl: 'http://samselanderson.com/'
   relativeLinks: 'http://samselanderson.com/'
   media: 'assets/images/'
-  ignore: - _config.yml
+  ignore: 
+    - _config.yml
     - /_layouts
     - /_includes
     - /_drafts
