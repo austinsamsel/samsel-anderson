@@ -37,7 +37,6 @@ More info and music at [www.elyssasamsel.com](http://www.elyssasamsel.com)
 
 ***
 
-##A Few More Photos
 
 ![Samsel Anderson 1]({{ site.baseurl }}/assets/images/about-samsel-anderson-01.jpg)
 ![Samsel Anderson 2]({{ site.baseurl }}/assets/images/about-samsel-anderson-02.jpg)
