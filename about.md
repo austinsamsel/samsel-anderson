@@ -21,7 +21,9 @@ In fall of 2010, Kate was accepted into the BMI Lehman Engel Musical Theatre Wor
 
 Kate and Elyssa's work has been featured in the New York Theater Barn's D-Lounge Series, The Platform: London, as well as "4@15" with NYU Steinhardt and UC Irvine. They have penned three short musical comedies, "Camp Wish-No-More", "Llamaze 101", and "My Little Brony". "Camp Wish-No-More", an original musical about a camp for delusional girls who believe they are Disney Princesses, was developed into a full length 90 minute musical, and presented as a staged reading with NYU Steinhardt in the fall of 2013. Kate and Elyssa contributed "Kittens First Full Moon" based on the book by Kevin Henkes to Theatreworks USA's "Fly Guy and Other Stories" which will tour the US this fall. Kate and Elyssa are currently working on some exciting new projects including two adaptations and an original work. 
 
+
 ***
+
 
 ##Elyssa Samsel
 
@@ -35,3 +37,6 @@ More info and music at [www.elyssasamsel.com](http://www.elyssasamsel.com)
 
 ***
 
+![Samsel Anderson 1]({{ site.baseurl }}/assets/images/about-samsel-anderson-01.jpg)
+![Samsel Anderson 2]({{ site.baseurl }}/assets/images/about-samsel-anderson-02.jpg)
+![Samsel Anderson 3]({{ site.baseurl }}/assets/images/about-samsel-anderson-03.jpg)
