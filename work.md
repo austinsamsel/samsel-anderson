@@ -125,8 +125,7 @@ published: true
 </div>
 
 ***
-Check out our reading of Camp Wish-No-More with NYU Steinhardt at the Kimmel Center!
+Check out our reading of Camp Wish-No-More with the NYU Steinhardt Players Club at the Kimmel Center!
 [CAMP WISH-NO-MORE (Act i, part i)](http://vimeo.com/84286432)
 [CAMP WISH-NO-MORE (Act i, part ii)](http://vimeo.com/82999815)
 [CAMP WISH-NO-MORE (Act ii)](http://vimeo.com/82584768)
-
