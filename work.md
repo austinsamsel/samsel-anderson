@@ -125,3 +125,15 @@ published: true
 </div>
 
 ***
+####NYU Players Club- "CAMP WISH-NO-MORE" Act I- part i
+<iframe src="//player.vimeo.com/video/84286432" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+***
+####NYU Players Club- "CAMP WISH-NO-MORE" Act I- part ii
+<iframe src="//player.vimeo.com/video/82999815" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+***
+####NYU Players Club- "CAMP WISH-NO-MORE" Act II
+<iframe src="//player.vimeo.com/video/82584768" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
