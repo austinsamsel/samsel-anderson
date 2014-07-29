@@ -125,15 +125,8 @@ published: true
 </div>
 
 ***
-####NYU Players Club- "CAMP WISH-NO-MORE" Act I- part i
-<iframe src="//player.vimeo.com/video/84286432" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-***
-####NYU Players Club- "CAMP WISH-NO-MORE" Act I- part ii
-<iframe src="//player.vimeo.com/video/82999815" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-***
-####NYU Players Club- "CAMP WISH-NO-MORE" Act II
-<iframe src="//player.vimeo.com/video/82584768" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+Check out our reading of Camp Wish-No-More with NYU Steinhardt at the Kimmel Center!
+[CAMP WISH-NO-MORE (Act i, part i)](http://vimeo.com/84286432)
+[CAMP WISH-NO-MORE (Act i, part ii)](http://vimeo.com/82999815)
+[CAMP WISH-NO-MORE (Act ii)](http://vimeo.com/82584768)
 
