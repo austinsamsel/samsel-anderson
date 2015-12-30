@@ -9,7 +9,12 @@ published: true
 ---
 
 
+
 {% include JB/setup %}
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1608791145/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://samselanderson.bandcamp.com/album/between-the-lines-demos">Between the Lines Demos by Samsel/Anderson</a></iframe>
+
+***
 
 <iframe style="border: 0; width: 100%; max-width:620px; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=38587190/size=large/bgcol=ffffff/linkcol=e99708/artwork=none/transparent=true/" seamless><a href="http://samselanderson.bandcamp.com/album/childrens-theater">Children&#39;s Theater by Samsel/Anderson</a></iframe>
 
