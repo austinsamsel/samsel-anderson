@@ -8,7 +8,15 @@ header: narrow
 published: true
 ---
 
+
 {% include JB/setup %}
+
+###Winter 2016
+Wow! Longtime no update, and we have been up to quite a lot! We are working on a brand new musical called "Between the Lines", based on the novel by Jodi Picoult and Samantha Van Leer. We have been working closely with Jodi, Sammy, and book writer Tim McDonald for the past year to adapt this wonderful story into a musical. Recently Jeff Calhoun (Newsies, Grey Gardens, Bonnie and Clyde) came on board as the director. Daryl Roth is producing! We will be presenting some of the music from the show at the Junior Theatre Festival this January in Atlanta, GA! Stay tuned for more updates. 
+
+Additionally, we are working on a very exciting project with a certain Animation studio. An announcement is expected to be made this spring. More on this as we can share it!
+
+***
 
 ###Fall 2014
 This fall 2014, our mini musical "Kitten's First Full Moon," based on the book by Kevin Henkes, will be part of the Theatreworks USA FLYGUY AND OTHER STORIES Tour! Stay tuned for ticket information!
