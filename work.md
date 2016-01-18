@@ -26,14 +26,34 @@ published: true
 <iframe style="border: 0; width: 100%; max-width:620px; height: 406px;" src="//bandcamp.com/EmbeddedPlayer/album=1768887556/size=large/bgcol=ffffff/linkcol=e99708/artwork=none/transparent=true/" seamless><a href="http://samselanderson.bandcamp.com/album/original-musical-theater">Original Musical Theater by Samsel/Anderson</a></iframe>
 
 ***
-BETWEEN THE LINES at JUNIOR THEATRE FESTIVAL 2015
+
+**VIDEOS:**
+***
+BETWEEN THE LINES at JUNIOR THEATER FESTIVAL 2015
 
 ***
 
-###"When You're the Enemy of Allie McAndrews" [Youtube]
+###"When You're the Enemy of Allie McAndrews" Featuring Janice Landry and Megan Rozak [Youtube]
 <iframe width="420" height="315" src="https://www.youtube.com/embed/7RhcUXZRNAk" frameborder="0" allowfullscreen></iframe>
 
 ***
+
+####"Between the Lines" Featuring Janice Landry and JD Daw [Youtube]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ue1CNWI5i6E" frameborder="0" allowfullscreen></iframe>
+
+***
+
+####"You Already Are" Featuring Luke Holloway and JD Daw [Youtube]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HR9bTfAojDE" frameborder="0" allowfullscreen></iframe>
+
+***
+
+####"When I'm Talkin' To Oliver" Featuring Janice Landry [Youtube]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KyAwG7sR9bE" frameborder="0" allowfullscreen></iframe>
+
+***
+
+OTHER VIDEOS
 
 ####"Llamaze 101" [Youtube]
 <div class="youtube-pic">
