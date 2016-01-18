@@ -12,6 +12,7 @@ published: true
 
 
 
+
 {% include JB/setup %}
 
 <iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=1608791145/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://samselanderson.bandcamp.com/album/between-the-lines-demos">Between the Lines Demos by Samsel/Anderson</a></iframe>
@@ -23,6 +24,14 @@ published: true
 ***
 
 <iframe style="border: 0; width: 100%; max-width:620px; height: 406px;" src="//bandcamp.com/EmbeddedPlayer/album=1768887556/size=large/bgcol=ffffff/linkcol=e99708/artwork=none/transparent=true/" seamless><a href="http://samselanderson.bandcamp.com/album/original-musical-theater">Original Musical Theater by Samsel/Anderson</a></iframe>
+
+***
+BETWEEN THE LINES at JUNIOR THEATRE FESTIVAL 2015
+
+***
+
+###"When You're the Enemy of Allie McAndrews" [Youtube]
+<iframe width="420" height="315" src="https://www.youtube.com/embed/7RhcUXZRNAk" frameborder="0" allowfullscreen></iframe>
 
 ***
 
