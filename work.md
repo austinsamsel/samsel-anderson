@@ -3,19 +3,13 @@ layout: page
 title: Our Work
 group: navigation
 weight: 3
-header: narrow
 published: true
 ---
 
 
-
-
-
-
-
-
-
 {% include JB/setup %}
+
+![Elyssa Samsel]({{ site.baseurl }}/assets/images/samsel-anderson-work.jpg)
 
 ***
 
