@@ -9,23 +9,23 @@ published: true
 
 {% include JB/setup %}
 
-##Kate Anderson
+Kate Anderson
 
 ![Kate Anderson]({{ site.baseurl }}/assets/images/kate-anderson.jpg)
 
-**Kate Anderson's** love of theatre began early. By first grade, Kate was writing and performing her own plays with her peers- not much has changed. Kate is now a performer, lyricist, and librettist surviving in New York City.
+**Kate Anderson** is half of the songwriting team behind the new musical, "Between the Lines" produced by Daryl Roth, based on the book by best-selling author Jodi Picoult and her daughter Samantha Van Leer. Kate and writing partner Elyssa Samsel are the songwriters for the upcoming "Olaf's Frozen Adventure" with Disney Animation that will premiere in 2017. In 2016 Kate and Elyssa were finalists for the Fred Ebb Award.
 
-In 2005, Kate was accepted into Gettysburg College and awarded the Parker B. Wagnild scholarship to pursue music at the Sunderman Conservatory. In 2009, Kate graduated cum laude with a BA in Music, and a minor in Creative Writing.
+Kate and Elyssa's work has been featured in the New York Theater Barn's D-Lounge Series, The Platform: London, as well as "4@15" with NYU Steinhardt and UC Irvine. They have penned three short musical comedies, "Camp Wish-No-More", "Llamaze 101", and "My Little Brony". "Camp Wish-No-More", an original musical about a camp for delusional girls who believe they are Disney Princesses, was developed into a full length 90 minute musical, and presented as a staged reading with NYU Steinhardt in the fall of 2013. Kate and Elyssa contributed "Kittens First Full Moon" based on the book by Kevin Henkes to Theatreworks USA's "Fly Guy and Other Stories" which just finished a national tour.
 
-In fall of 2010, Kate was accepted into the BMI Lehman Engel Musical Theatre Workshop. Kate was paired with Elyssa Samsel for her very first assignment and the two have been writing partners ever since. They are both members of the BMI Advanced Workshop. Kate is also a member of the BMI Librettist Workshop and currently studies improv and sketch comedy at the Upright Citizens Brigade Training Center.
+Kate's love of theatre began early. By first grade, Kate was writing and performing her own plays with her peers- not much has changed. In 2005, Kate was accepted into Gettysburg College and awarded the Parker B. Wagnild scholarship to pursue music at the Sunderman Conservatory. In 2009, Kate graduated cum laude with a BA in Music, and a minor in Creative Writing. In fall of 2010, Kate was accepted into the BMI Lehman Engel Musical Theatre Workshop. Kate was paired with Elyssa Samsel for her very first assignment and the two have been writing partners ever since. They are both members of the BMI Advanced Workshop. Kate is also a member of the BMI Librettist Workshop and currently studies improv and sketch comedy at the Upright Citizens Brigade Training Center. She can be seen performing improv around the city with her indie team, Duran Duran Duran.
 
-Kate and Elyssa's work has been featured in the New York Theater Barn's D-Lounge Series, The Platform: London, as well as "4@15" with NYU Steinhardt and UC Irvine. They have penned three short musical comedies, "Camp Wish-No-More", "Llamaze 101", and "My Little Brony". "Camp Wish-No-More", an original musical about a camp for delusional girls who believe they are Disney Princesses, was developed into a full length 90 minute musical, and presented as a staged reading with NYU Steinhardt in the fall of 2013. Kate and Elyssa contributed "Kittens First Full Moon" based on the book by Kevin Henkes to Theatreworks USA's "Fly Guy and Other Stories" which will tour the US this fall. Kate and Elyssa are currently working on a musical produced by Daryl Roth, based on the book "Between the Lines" by Jodi Picoult and Samantha Van Leer. They are also working on a project for Disney Animation that will premiere in December 2017. Kate and Elyssa were also finalists for the 2016 Fred Ebb Award. 
+
 
 
 ***
 
 
-##Elyssa Samsel
+Elyssa Samsel
 
 ![Elyssa Samsel]({{ site.baseurl }}/assets/images/elyssa-samsel.jpg)
 
