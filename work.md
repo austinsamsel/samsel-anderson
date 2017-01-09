@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Our Work
-description: ""
 group: navigation
 weight: 3
 header: narrow
@@ -34,7 +33,7 @@ BETWEEN THE LINES at JUNIOR THEATER FESTIVAL 2016
 
 ***
 
-###"When You're the Enemy of Allie McAndrews" Featuring Janice Landry and Megan Rozak [Youtube]
+####"When You're the Enemy of Allie McAndrews" Featuring Janice Landry and Megan Rozak [Youtube]
 <iframe width="420" height="315" src="https://www.youtube.com/embed/7RhcUXZRNAk" frameborder="0" allowfullscreen></iframe>
 
 ***
