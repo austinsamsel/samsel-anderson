@@ -142,13 +142,19 @@ a:hover{
     padding-bottom: 15px;
     padding-top: 15px;
 }
+.hero-wrap{
+  position:absolute;
+  top:65%;
+  left:50%;
+  transform:translate(-50%, -65%);
+  width:calc(100% - 20px)
+}
 .hello h1 {
     color: #FFB504;
     font-family: 'oswald', sans-serif;
     font-size:38px;
     text-align: center;
     text-transform: uppercase;
-    margin-top:35%;
 }
 .lighter{
   color:#e2c379;
@@ -182,7 +188,7 @@ a:hover{
 }
 
 /* Medium devices (desktops, 992px and up) */
-@media (min-width: 992px) { 
+@media (min-width: 992px) {
   .us h2 {
     font-size: 35px !important;
 }
@@ -219,4 +225,3 @@ p {margin-bottom:1.1em;}
 .form-control {
     font-size: 18px;
   }
-
