@@ -73,15 +73,6 @@ OTHER VIDEOS
 
 ***
 
-"My Little Brony part II" [Youtube]
-<div class="youtube-pic">
-<div class="play-button">
-</div>
-<a href="http://www.youtube.com/watch?v=6fzXmlo1w2Y"><img src="http://img.youtube.com/vi/6fzXmlo1w2Y/0.jpg"></a>
-</div>
-
-***
-
 NYTB Natalie Charle Ellis - "Do You Care?" [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
