@@ -48,14 +48,14 @@ BETWEEN THE LINES at JUNIOR THEATER FESTIVAL 2016
 
 ***
 
-####"When I'm Talkin' To Oliver" Featuring Janice Landry [Youtube]
+"When I'm Talkin' To Oliver" Featuring Janice Landry [Youtube]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KyAwG7sR9bE" frameborder="0" allowfullscreen></iframe>
 
 ***
 
 OTHER VIDEOS
 
-####"Llamaze 101" [Youtube]
+"Llamaze 101" [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
 </div>
@@ -64,7 +64,7 @@ OTHER VIDEOS
 
 ***
 
-####"When You're a Brony" [Youtube]
+"When You're a Brony" [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
 </div>
@@ -73,7 +73,7 @@ OTHER VIDEOS
 
 ***
 
-####"My Little Brony part II" [Youtube]
+"My Little Brony part II" [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
 </div>
@@ -82,61 +82,7 @@ OTHER VIDEOS
 
 ***
 
-####"Bound by Love" [Youtube]
-<div class="youtube-pic">
-<div class="play-button">
-</div>
-<a href="http://www.youtube.com/watch?v=HhS745RUmnk"><img src="http://img.youtube.com/vi/HhS745RUmnk/0.jpg"></a>
-</div>
-
-***
-
-####“The Most Beautiful Bottom” [Youtube]
-<div class="youtube-pic">
-<div class="play-button">
-</div>
-<a href="http://www.youtube.com/watch?v=MGsUntliad4"><img src="http://img.youtube.com/vi/MGsUntliad4/0.jpg"></a>
-</div>
-
-***
-
-####“Under my Bed” [Youtube]
-<div class="youtube-pic">
-<div class="play-button">
-</div>
-<a href="http://www.youtube.com/watch?v=Dx-MlgCMeJ0"><img src="http://img.youtube.com/vi/Dx-MlgCMeJ0/0.jpg"></a>
-</div>
-
-***
-
-####“Drag ‘em to Helga” [Youtube]
-<div class="youtube-pic">
-<div class="play-button">
-</div>
-<a href="http://www.youtube.com/watch?v=gsiPLRvbKGE"><img src="http://img.youtube.com/vi/gsiPLRvbKGE/0.jpg"></a>
-</div>
-
-***
-
-####NYTB "Star, Star / By the Five Dead Crows" from Camp Wish-No-More [Youtube]
-<div class="youtube-pic">
-<div class="play-button">
-</div>
-<a href="http://www.youtube.com/watch?v=MvjXhoviW30"><img src="http://img.youtube.com/vi/MvjXhoviW30/0.jpg"></a>
-</div>
-
-***
-
-####NYTB Kate Anderson, David Christensen & Michael Shapiro - "If There's a World" [Youtube]
-<div class="youtube-pic">
-<div class="play-button">
-</div>
-<a href="http://www.youtube.com/watch?v=T9sC6FoQO2c"><img src="http://img.youtube.com/vi/T9sC6FoQO2c/0.jpg"></a>
-</div>
-
-***
-
-####NYTB Natalie Charle Ellis - "Do You Care?" [Youtube]
+NYTB Natalie Charle Ellis - "Do You Care?" [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
 </div>
@@ -145,16 +91,7 @@ OTHER VIDEOS
 
 ***
 
-####NYTB "Princess Just Like You" [Youtube]
-<div class="youtube-pic">
-<div class="play-button">
-</div>
-<a href="http://www.youtube.com/watch?v=NuTPYrx6xOg"><img src="http://img.youtube.com/vi/NuTPYrx6xOg/0.jpg"></a>
-</div>
-
-***
-
-####NYTB Ben Crawford - "The Most Beautiful Bottom" [Youtube]
+NYTB Ben Crawford - "The Most Beautiful Bottom" [Youtube]
 <div class="youtube-pic">
 <div class="play-button">
 </div>
