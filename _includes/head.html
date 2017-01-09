@@ -20,15 +20,7 @@
         wf.async = 'true';
         var s = document.getElementsByTagName('script')[0];
         s.parentNode.insertBefore(wf, s);
-        })(); 
-    </script>
-    <script>
-      $.preloadImages = function() {
-        for (var i = 0; i < arguments.length; i++) {
-          $("<img />").attr("src", arguments[i]);
-        }
-      }
-      $.preloadImages("{{ site.baseurl }}/assets/images/youtube-play.png","{{ site.baseurl }}/assets/images/youtube-play-red.png");
+        })();
     </script>
 
     <meta charset="utf-8">
@@ -47,7 +39,7 @@
     <link href="{{ site.baseurl }}/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
     <!-- Sticky Footer -->
     <link href="{{ site.baseurl }}/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
-    
+
     <!-- Custom styles -->
     <link href="{{ site.baseurl }}/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
