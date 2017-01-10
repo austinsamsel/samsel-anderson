@@ -12,7 +12,7 @@ published: true
 
 **Winter 2017**
 
-2016 was an exciting year! In December we were featured in ["The Making of Frozen: A Return to Arendelle"](http://abcnews.go.com/Entertainment/photos/video-making-frozen-return-arendelle-44133721) as it was announced that we are the songwriting team for the Frozen special: "Olaf's Frozen Adventure" premiering this coming holiday season (2017). In August, we participated in New York Stage and Film's Vassar Powerhouse readings series with our show "Between the Lines". Upcoming, we will travel to Atlanta again this January to present some songs for the Junior Theater Festival. Lots of exciting things are brewing. We'll try to include any and all updates here as we have them.
+2016 was an exciting year! In December we were featured in [The Making of Frozen: A Return to Arendelle](http://abc.go.com/shows/abc-news-specials/episode-guide/2016-12/11-the-making-of-frozen-return-to-arendelle) as it was announced that we are the songwriting team for the Frozen special: "Olaf's Frozen Adventure" premiering this coming holiday season (2017). In August, we participated in New York Stage and Film's Vassar Powerhouse readings series with our show "Between the Lines". Upcoming, we will travel to Atlanta again this January to present some songs for the Junior Theater Festival. Lots of exciting things are brewing. We'll try to include any and all updates here as we have them.
 
 ***
 
