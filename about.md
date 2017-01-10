@@ -11,7 +11,8 @@ published: true
 
 ### Kate Anderson
 
-![Kate Anderson]({{ site.baseurl }}/assets/images/kate-anderson.jpg)
+![Kate Anderson]![]({{site.baseurl}}//Kate%20retouch2.jpg)
+
 
 **Kate Anderson** is half of the songwriting team behind the new musical, "Between the Lines" produced by Daryl Roth, based on the book by best-selling author Jodi Picoult and her daughter Samantha Van Leer. Kate and writing partner Elyssa Samsel are the songwriters for the upcoming "Olaf's Frozen Adventure" with Disney Animation that will premiere in 2017. In 2016 Kate and Elyssa were finalists for the Fred Ebb Award.
 
