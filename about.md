@@ -9,9 +9,8 @@ published: true
 
 {% include JB/setup %}
 
-### Kate Anderson 
-![Kate Anderson]({{site.baseurl}}assets/images/Kate%20retouch2.jpg)
 
+<img src="{{site.baseurl}}/assets/images/bio-kate-anderson.jpg" alt="Kate Anderson" style="max-width:50%" />
 
 **Kate Anderson** is half of the songwriting team behind the new musical, "Between the Lines" produced by Daryl Roth, based on the book by best-selling author Jodi Picoult and her daughter Samantha Van Leer. Kate and writing partner Elyssa Samsel are the songwriters for the upcoming "Olaf's Frozen Adventure" with Disney Animation that will premiere in 2017. In 2016 Kate and Elyssa were finalists for the Fred Ebb Award.
 
@@ -19,15 +18,12 @@ Kate and Elyssa's work has been featured in the New York Theater Barn's D-Lounge
 
 Kate's love of theatre began early. By first grade, Kate was writing and performing her own plays with her peers- not much has changed. In 2005, Kate was accepted into Gettysburg College and awarded the Parker B. Wagnild scholarship to pursue music at the Sunderman Conservatory. In 2009, Kate graduated cum laude with a BA in Music, and a minor in Creative Writing. In fall of 2010, Kate was accepted into the BMI Lehman Engel Musical Theatre Workshop. Kate was paired with Elyssa Samsel for her very first assignment and the two have been writing partners (and TOTAL BESTIES) ever since. They are both members of the BMI Advanced Workshop and were chosen in 2014 as featured writers for a masterclass with Stephen Schwartz. Kate has studied improv and sketch comedy at the Upright Citizens Brigade Training Center. She can be seen performing improv around the city with her indie team, Duran Duran Duran. Kate lives in New York with her boyfriend Luke and she would totally have a cat and name it Tutter if her apartment was pet friendly.
 
-
+<br />
 
 
 ***
 
-
-### Elyssa Samsel
-
-![Elyssa Samsel]({{ site.baseurl }}/assets/images/elyssa-samsel.jpg)
+<img src="{{site.baseurl}}/assets/images/bio-elyssa-samsel.jpg" alt="Elyssa Samsel" style="max-width:50%" />
 
 **Elyssa Samsel** is the other half of the songwriting team for BETWEEN THE LINES; a new musical produced by Daryl Roth, based on the novel by best-selling novelist Jodi Picoult and Samantha Van Leer. Kate Anderson and Elyssa Samsel are the songwriters for Disney Animation’s “Olaf’s Frozen Adventure,” which will premiere in 2017.  
 
